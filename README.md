@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b4befe&height=120&section=header"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy-cat&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=b4befe)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sy-cat&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=b4befe&langs_count=3)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-sath&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=b4befe)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sath&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=b4befe&langs_count=3)
 
 ----
 
